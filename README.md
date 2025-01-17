@@ -4,3 +4,4 @@ Features: Encryption, album organization, and cloud sync.
 Install: Clone with  and run .
 Start: Run  and visit .
 Requirements: Python 3.8+, 4GB RAM minimum.
+Usage:  to manage an album.
