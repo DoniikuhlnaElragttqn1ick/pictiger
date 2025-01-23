@@ -7,3 +7,10 @@ Requirements: Python 3.8+, 4GB RAM minimum.
 Usage:  to manage an album.
 Contribute: See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 License: Apache 2.0 License, see [LICENSE](LICENSE).
+Testing: Run ============================= test session starts ==============================
+platform linux -- Python 3.12.1, pytest-8.4.1, pluggy-1.6.0
+rootdir: /workspaces/pictiger
+plugins: anyio-4.9.0
+collected 0 items
+
+============================ no tests ran in 0.00s ============================= to execute the test suite.
