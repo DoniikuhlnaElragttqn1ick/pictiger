@@ -16,3 +16,4 @@ collected 0 items
 ============================ no tests ran in 0.00s ============================= to execute the test suite.
 FAQ: Encryption details in [security.md](docs/security.md).
 Community: Join us on [Reddit](https://reddit.com/r/photovault).
+Troubleshooting: See [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for solutions.
