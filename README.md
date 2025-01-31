@@ -17,3 +17,4 @@ collected 0 items
 FAQ: Encryption details in [security.md](docs/security.md).
 Community: Join us on [Reddit](https://reddit.com/r/photovault).
 Troubleshooting: See [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for solutions.
+[![Build Status](https://github.com/user/photovault/workflows/CI/badge.svg)](https://github.com/user/photovault/actions)
